@@ -6,7 +6,7 @@ Description: Show seconds on statusbar. Works on iOS 11 and 12.
 Maintainer: CryptedBytes
 Author: CryptedBytes
 Section: Tweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.cryptedbytes.aevus.deb
 Size: 55268
 MD5sum: 41a9602f97af9c99fe24cbd4a2357f72
