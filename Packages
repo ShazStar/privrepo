@@ -1,4 +1,4 @@
-Package: com.cryptedbytes.aevus.deb
+Package: com.cryptedbytes.aevus
 Name: AEVUS
 Version: 1.0-2+debug
 Architecture: iphoneos-arm
@@ -6,7 +6,7 @@ Description: Show seconds on statusbar. Works on iOS 11 and 12.
 Maintainer: CryptedBytes
 Author: CryptedBytes
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Filename: debs/com.cryptedbytes.aevus.deb
 Size: 55268
 MD5sum: 41a9602f97af9c99fe24cbd4a2357f72
