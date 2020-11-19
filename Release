@@ -1,0 +1,8 @@
+Origin: ShazStar.
+Label: ShazStar's Private Repo.
+Suite: stable
+Version: 1.0
+Codename: shazstarprivrepo
+Architectures: iphoneos-arm
+Components: main
+Description: ShazStar's Private Jailbreak repo.
