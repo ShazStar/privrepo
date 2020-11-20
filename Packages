@@ -1,0 +1,136 @@
+Package: com.cryptedbytes.aevus
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: CryptedBytes
+Installed-Size: 346
+Depends: mobilesubstrate
+Filename: debs/com.cryptedbytes.aevus.deb
+Size: 55268
+MD5sum: 41a9602f97af9c99fe24cbd4a2357f72
+SHA1: fa0a79b7dfd1246cbc8f3f5b74ebc9e33a14b070
+SHA256: 06a4f9a922710b336571563369cd5a5c9cf3b33edd718bcc65385b34e38d0926
+Section: Tweaks
+Description: Show seconds on statusbar.
+Author: CryptedBytes
+Name: AEVUS
+
+Package: com.dannyglover.nofolderbackground
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/nofolderbackground_1.0.deb
+Size: 3060
+MD5sum: d30bd26687fd01b9bd5a8b037d374d7a
+SHA1: 2435dedd62a5754d9b394addf66cb1b2f6d3a544
+SHA256: 1c27bef5ce89ba8ff8ef8e19a1d9aeff3b96f0e80692c97938007d0e5b655560
+Section: Tweaks
+Description: Removes folder backgrounds on iOS 10.
+Author: Danny Glover
+Name: NoFolderBackground
+
+Package: com.imkpatil.silentrecorder
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.imkpatil.silentrecorder_1.4.1_iphoneos-arm.deb
+Size: 51266
+MD5sum: 73b903113152874a48a266ba13a36258
+SHA1: e667cea4fd0a3d78e937734f7ed72087cd52f784
+SHA256: 50b51fa8b749016dbe1c5a60b646e4b37b088fcae5b56958c4aedb640c2216e6
+Section: Tweaks
+Priority: optional
+Description: Record the screen without the Red Indicator Window!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.neinzedd9.vibrancy
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 132
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/com.neinzedd9.vibrancy_1.1-1_iphoneos-arm.deb
+Size: 11270
+MD5sum: ad96f3f04008c0b83d1f2fb0a2e95e24
+SHA1: 9014f249689dc640a4b8ccf06ec4b5e975f56b5a
+SHA256: 3a3b97a0795cc9e308991bc153e0f18c090b56ad5d4f0e33665c9b1f91f15144
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vibrancyDp
+Description: Make the lockscreen clock vibrant.
+Author: Blake Boxberger <dev.blakeboxberger@gmail.com>
+Dev: neinzedd9
+Name: Vibrancy (iOS 10/11)
+
+Package: com.repo.xarold.com.platterless
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: pwn20wnd
+Depends: mobilesubstrate
+Filename: debs/platterless_1.0-1.deb
+Size: 3518
+MD5sum: 2bc0f084ab0f3047554a0c16f5a4bd94
+SHA1: cdc1a519effc8d8866d9d8e067ac9e3e408f9d3c
+SHA256: 4aca9068f03d3623fc2d7808da5eb17d0a0f3c56b336accc876007a73abe0ad9
+Section: Tweaks
+Description: A more clean look for the iOS 10 Control Center.
+Author: pwn20wnd
+Name: Platterless
+
+Package: fr.coupaings.passcodetext
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 299
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: debs/fr.coupaings.passcodetext_0.1_iphoneos-arm.deb
+Size: 71910
+MD5sum: e0072490e3c367c1b81556b6f5ce7602
+SHA1: e7ac7d023a3007774ac5814b4050d11529e8dcaa
+SHA256: 08b09394bd65148a5b31ea342654db2e2d011e65531267a3d7305a7fa8c50117
+Section: Tweaks
+Priority: optional
+Description: Tweak to change the passcode text.
+Author: Funsky (Coupaings) <funskydev@outlook.com>
+Icon: file:///Library/PreferenceBundles/PasscodeTextPreferences.bundle/icon@2x.png
+Name: PasscodeText
+
+Package: io.github.artillect.nononotifications
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Riley
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/io.github.artillect.nononotifications_1.0.2_iphoneos-arm.deb
+Size: 10898
+MD5sum: 133456b5b6aa1a8372318c9bd90ea541
+SHA1: d0c58d1bac17355c517466a85d9f677140a6365f
+SHA256: 69f406291cf1b2453292037fd74a187f00cade03d893673fb60dd548aca88bb8
+Section: Tweaks
+Description: Hide "No Older Notifications" text on lock screen and notification center
+Author: Riley
+Name: No No Notifications
+
+Package: me.lightmann.transparentnotif
+Version: 1.0.6.3-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 632
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/transparentnotif_1.0.6.3-1.deb
+Size: 325638
+MD5sum: 428055619b3da44cf32c9da5eb42e205
+SHA1: 4bec2bec0488bfd7bc9a6e860a340ab67812cd28
+SHA256: 0f06dafea2b3c4b39695ab2ee7bc9b05350e4a3d9834319771253da2aeebc6c7
+Section: Tweaks
+Priority: optional
+Description: Cleans up notification banners.
+Author: Lightmann <lightmanns11@gmail.com>
+Dev: lightmann
+Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
+Name: TransparentNotif
