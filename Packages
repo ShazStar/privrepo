@@ -77,8 +77,7 @@ Package: io.github.artillect.nononotifications
 Name: No No Notifications
 Version: 1.0.2
 Architecture: iphoneos-arm
-Description: Hide "No Older Notifications" text on lock screen and notification center
-Name: No No Notifications. Works on iOS 11~iOS 14.
+Description: Hide "No Older Notifications" text on lock screen and notification center. Works on iOS 11~iOS 14.
 Maintainer: Riley
 Author: Riley
 Section: Tweaks
