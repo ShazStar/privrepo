@@ -159,25 +159,6 @@ Author: Riley
 Depiction: http://artillect.github.io/repo/depictions/?p=io.github.artillect.nononotifications
 Name: No No Notifications
 
-Package: love.litten.dejavu
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Litten
-Installed-Size: 1436
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: debs/love.litten.dejavu_1.1_iphoneos-arm.deb
-Size: 1051054
-MD5sum: 8dea65eb5de2662ec97f54e75bcac75f
-SHA1: a71447fda469ffb990e618d418f98b5ce9f932b4
-SHA256: 3b3fee683768fb7d6536c952a88ddf8a000a9e0b5ad731c8aff88880464102bc
-Section: Tweaks
-Description: I've seen that before
-Author: Litten
-Depiction: https://repo.litten.love/depictions/dvu/index.html
-Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
-Name: Déjà Vu 🕰
-Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
-
 Package: me.lightmann.transparentnotif
 Version: 1.0.6.3-1
 Architecture: iphoneos-arm
